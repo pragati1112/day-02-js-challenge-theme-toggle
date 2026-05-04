@@ -85,8 +85,7 @@ Learning at: Red & White Skill Education
 ---
 
 ## 🔗 Connect With Me
-
-[(Add your LinkedIn profile link](https://www.linkedin.com/in/pragati-makwana-a401a6313/?skipRedirect=true))
+(https://www.linkedin.com/in/pragati-makwana-a401a6313/?skipRedirect=true))
 
 ---
 
