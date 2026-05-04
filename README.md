@@ -64,8 +64,8 @@ Day-02-Theme-Toggle
 
 ## 📸 Preview
 
-(<img width="511" height="422" alt="image" src="https://github.com/user-attachments/assets/c37ed820-f36e-4e52-a66d-7d96e75e6e4f" />
-)
+<img width="511" height="422" alt="image" src="https://github.com/user-attachments/assets/c37ed820-f36e-4e52-a66d-7d96e75e6e4f" />
+
 
 
 
